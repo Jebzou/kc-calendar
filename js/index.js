@@ -10,7 +10,7 @@ $(document).ready(function() {
       editable: true,
       navLinks: true, // can click day/week names to navigate views
       eventLimit: true, // allow "more" link when too many events
-      events: EVENTS,
+      events: BBs.toCalendar(),
       loading: function(bool) {
         $('#loading').toggle(bool);
       }
