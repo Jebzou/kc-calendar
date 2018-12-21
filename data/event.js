@@ -57,7 +57,7 @@ var BBs = [
   {
     "name_en": "Musashi",
     "name_jp": "武蔵",
-    "birthdate": "11/01/1940"
+    "birthdate": "01/11/1940"
   },
   {
     "name_en": "Bismarck",
