@@ -5,11 +5,6 @@ var BBs = [
     "birthdate": "18/05/1912"
   },
   {
-    "name_en": "Kongou",
-    "name_jp": "金剛",
-    "birthdate": "20/12/2018"
-  },
-  {
     "name_en": "Hiei",
     "name_jp": "比叡",
     "birthdate": "21/11/1912"
@@ -22,7 +17,7 @@ var BBs = [
   {
     "name_en": "Kirishima",
     "name_jp": "霧島",
-    "birthdate": "12/01/1913"
+    "birthdate": "01/12/1913"
   },
   {
     "name_en": "Fusou",
@@ -47,7 +42,7 @@ var BBs = [
   {
     "name_en": "Nagato",
     "name_jp": "長門",
-    "birthdate": "12/09/1919"
+    "birthdate": "09/11/1919"
   },
   {
     "name_en": "Mutsu",
@@ -90,19 +85,9 @@ var BBs = [
     "birthdate": "26/11/1913"
   },
   {
-    "name_en": "",
-    "name_jp": "",
-    "birthdate": ""
-  },
-  {
     "name_en": "Nelson",
     "name_jp": "ネルソン",
     "birthdate": "03/09/1925"
-  },
-  {
-    "name_en": "",
-    "name_jp": "",
-    "birthdate": ""
   },
   {
     "name_en": "Richelieu",
