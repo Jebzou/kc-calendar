@@ -803,6 +803,11 @@ var DDs = [
     "birthdate": "24/07/1937"
   },
   {
+    "name_en": "Minegumo",
+    "name_jp": "峯雲",
+    "birthdate": "04/11/1937"
+  },
+  {
     "name_en": "Arare",
     "name_jp": "霰",
     "birthdate": "16/11/1937"
@@ -928,6 +933,11 @@ var DDs = [
     "birthdate": "20/04/1943"
   },
   {
+    "name_en": "Hayanami",
+    "name_jp": "早波",
+    "birthdate": "19/12/1942"
+  },
+  {
     "name_en": "Hamanami",
     "name_jp": "浜波",
     "birthdate": "18/04/1943"
@@ -1006,6 +1016,11 @@ var DDs = [
     "name_en": "Samuel B.Roberts",
     "name_jp": "サミュエル・B・ロバーツ",
     "birthdate": "20/01/1944"
+  },
+  {
+    "name_en": "Johnston",
+    "name_jp": "ジョンストン",
+    "birthdate": "25/03/1943"
   },
   {
     "name_en": "Jervis",
@@ -1092,6 +1107,11 @@ var AXs = [
     "name_en": "Mizuho",
     "name_jp": "瑞穂",
     "birthdate": "16/05/1938"
+  },
+  {
+    "name_en": "Nisshin",
+    "name_jp": "日進",
+    "birthdate": "30/11/1939"
   },
   {
     "name_en": "Akitsushima",
