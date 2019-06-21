@@ -32,7 +32,7 @@ var BBs = [
   {
     "name_en": "Ise",
     "name_jp": "伊勢",
-    "birthdate": "02/11/1916"
+    "birthdate": "12/11/1916"
   },
   {
     "name_en": "Hyuuga",
@@ -78,6 +78,11 @@ var BBs = [
     "name_en": "Iowa",
     "name_jp": "アイオワ",
     "birthdate": "27/08/1942"
+  },
+  {
+    "name_en": "Colorado",
+    "name_jp": "コロラド",
+    "birthdate": "22/03/1921"
   },
   {
     "name_en": "Warspite",
@@ -1005,7 +1010,7 @@ var DDs = [
   {
     "name_en": "Maestrale",
     "name_jp": "マエストラーレ",
-    "birthdate": "???"
+    "birthdate": "15/04/1934"
   },
   {
     "name_en": "Libeccio",
@@ -1013,14 +1018,19 @@ var DDs = [
     "birthdate": "04/07/1934"
   },
   {
-    "name_en": "Samuel B.Roberts",
-    "name_jp": "サミュエル・B・ロバーツ",
-    "birthdate": "20/01/1944"
+    "name_en": "Fletcher",
+    "name_jp": "フレッチャー",
+    "birthdate": "03/05/1942"
   },
   {
     "name_en": "Johnston",
     "name_jp": "ジョンストン",
     "birthdate": "25/03/1943"
+  },
+  {
+    "name_en": "Samuel B.Roberts",
+    "name_jp": "サミュエル・B・ロバーツ",
+    "birthdate": "20/01/1944"
   },
   {
     "name_en": "Jervis",
@@ -1044,6 +1054,16 @@ var DEs = [
     "name_en": "Kunashiri",
     "name_jp": "国後",
     "birthdate": "06/05/1940"
+  },
+  {
+    "name_en": "Hachijou",
+    "name_jp": "八丈",
+    "birthdate": "10/04/1940"
+  },
+  {
+    "name_en": "Ishigaki",
+    "name_jp": "石垣",
+    "birthdate": "14/09/1940"
   },
   {
     "name_en": "Etorofu",
